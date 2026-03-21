@@ -1,0 +1,16 @@
+name: demo
+
+on:
+  workflow_dispatch:
+
+jobs:
+  boundary-demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Demo placeholder
+        run: |
+          echo "cnp-boundary demo scaffold"
+          echo "external authority integration will be wired in the next step"

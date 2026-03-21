@@ -1,0 +1,9 @@
+bin/
+obj/
+dist/
+release/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
