@@ -59,3 +59,9 @@ This page does not claim that Hosted Authority is already a public live service.
 This page does not claim public self-serve activation.
 This page does not claim Marketplace-ready checkout.
 This page does not replace the separate payment and delivery steps.
+
+## Commercial step
+
+For real commercial use above the public GitHub surfaces, use the Hosted Authority inquiry path:
+
+https://access-cnp-run.cnpworkersdev.workers.dev
