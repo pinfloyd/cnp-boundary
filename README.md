@@ -43,3 +43,12 @@ The intended route remains:
 ## Current boundary
 This repository presents the proof surface and the route into a separate written commercial path.
 It does not describe Hosted Authority as a public live service.
+
+<!-- CNP_REQUEST_ACCESS_START -->
+## Request access
+
+[Request access](https://example.com/request-access)
+
+This is the only canonical inquiry entry for Hosted Authority access.
+GitHub is not checkout.
+<!-- CNP_REQUEST_ACCESS_END -->
