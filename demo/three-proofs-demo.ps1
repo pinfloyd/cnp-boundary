@@ -1,5 +1,5 @@
 param(
-    [string]$AuthorityBase = "http://107.172.34.21:8787"
+    [string]$AuthorityBase = "https://admit.ai-admissibility.com"
 )
 
 $ErrorActionPreference = "Stop"
