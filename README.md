@@ -47,7 +47,7 @@ It does not describe Hosted Authority as a public live service.
 <!-- CNP_REQUEST_ACCESS_START -->
 ## Request access
 
-[Request access](https://example.com/request-access)
+[Request access](https://admit.ai-admissibility.com)
 
 This is the only canonical inquiry entry for Hosted Authority access.
 GitHub is not checkout.
