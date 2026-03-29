@@ -64,12 +64,11 @@ This page does not replace the separate payment and delivery steps.
 
 For real commercial use above the public GitHub surfaces, use the Hosted Authority inquiry path:
 
-https://access-cnp-run.cnpworkersdev.workers.dev
 
 <!-- CNP_REQUEST_ACCESS_START -->
 ## Request access
 
-[Request access](https://admit.ai-admissibility.com)
+[Request access](https://access-cnp-run.cnpworkersdev.workers.dev)
 
 This is the only canonical inquiry entry for Hosted Authority access.
 GitHub is not checkout.
