@@ -68,7 +68,7 @@ For real commercial use above the public GitHub surfaces, use the Hosted Authori
 <!-- CNP_REQUEST_ACCESS_START -->
 ## Request access
 
-[Request access](https://access-cnp-run.cnpworkersdev.workers.dev)
+[Request access](https://ai-admissibility.com/request)
 
 This is the only canonical inquiry entry for Hosted Authority access.
 GitHub is not checkout.
