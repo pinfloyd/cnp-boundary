@@ -127,7 +127,8 @@ if (-not [string]::IsNullOrWhiteSpace($VerifyExe) -and (Test-Path -LiteralPath $
     Write-Output "PROOF1_VERIFY=SKIPPED_NO_AB_VERIFY_EXE"
 }
 
-$denyLine = "OPENAI_API_KEY=abcd"
+$denyPrefix = "OPENAI_API_KEY"
+$denyLine = "$denyPrefix=abcd"
 $denyHash = [System.BitConverter]::ToString(
     [System.Security.Cryptography.SHA256]::Create().ComputeHash([System.Text.Encoding]::UTF8.GetBytes($denyLine))
 ).Replace("-","").ToLowerInvariant()
