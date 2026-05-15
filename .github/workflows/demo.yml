@@ -12,5 +12,5 @@ jobs:
 
       - name: Demo scaffold
         run: |
-          echo "cnp-boundary demo scaffold"
+          echo "AI Admissibility Boundary demo scaffold"
           echo "external authority integration is not part of this public workflow"

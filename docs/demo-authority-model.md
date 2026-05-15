@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document fixes the evaluation-access model for `cnp-boundary`.
+This document fixes the evaluation-access model for AI Admissibility Boundary.
 
 The public demonstration path must prove the boundary with a small number of real server-side runs without exposing unrestricted ongoing use.
 

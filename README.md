@@ -1,4 +1,4 @@
-# cnp-boundary
+# AI Admissibility Boundary
 External controlled negotiation protocol (cnp) for automated and AI-driven actions.
 Not another scanner.
 A scanner detects after the fact.
@@ -12,7 +12,7 @@ The object is a separate execution decision surface above workflow-local logic.
 
 ## Public surface structure
 This public surface is intentionally paired with the separate GitHub Action surface:
-- `cnp-boundary` = proof / evaluation surface
+- `AI Admissibility Boundary` = proof / evaluation surface
 - `cnp-action` = install / Action surface
 
 ## Commercial path
