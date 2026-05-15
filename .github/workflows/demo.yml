@@ -10,7 +10,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Demo placeholder
+      - name: Demo scaffold
         run: |
           echo "cnp-boundary demo scaffold"
-          echo "external authority integration will be wired in the next step"
+          echo "external authority integration is not part of this public workflow"
