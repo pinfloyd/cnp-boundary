@@ -25,7 +25,7 @@ If a team wants real use rather than only proof or evaluation, the canonical nex
 
 ## Why this distinction matters
 A scanner reports.
-An cnp boundary decides whether execution is allowed to continue.
+An AI Admissibility Boundary decides whether execution is allowed to continue.
 That distinction is the core interpretation key for this repository.
 
 ## Current reading route
@@ -70,3 +70,4 @@ Learn more:
 - https://ai-admissibility.com/platform-native-policy/
 - https://ai-admissibility.com/external-admission-authority/
 - https://ai-admissibility.com/surrogate-boundary-test/
+
